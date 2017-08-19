@@ -1,0 +1,33 @@
+.color-btn{
+	margin-top: 100px;
+	width: 300px;
+	height: 150px;
+}
+.color-btn>button{
+	width: 100px;
+	height: 70px;
+	margin: 10px;
+}
+button.btn-danger:focus{
+	background: #d9534f;
+}
+button.btn-primary:focus{
+	background: #337ab7 ;
+}
+button.btn-success:focus{
+	background: #5cb85c;
+}
+button.btn-warning:focus{
+	background: #f0ad4e;
+}
+.control-btn{
+	margin: 30px;
+}
+#score{
+	background: crimson;
+	width: 30px;
+	height: 40px;
+	border-radius: 5px;
+}
+
+ 
